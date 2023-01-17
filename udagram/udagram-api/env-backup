@@ -1,0 +1,16 @@
+# This file is used for convenience of local development.
+# DO NOT STORE YOUR CREDENTIALS INTO GIT
+POSTGRES_USERNAME=postgres
+POSTGRES_PASSWORD=mypassword
+POSTGRES_HOST=database-1.cwk4ilkx0nie.us-east-1.rds.amazonaws.com# RDS HOST
+POSTGRES_DB=postgres
+DB_port=5432
+AWS_BUCKET=udagram-bucket-926 
+AWS_DEFAULT_REGION=us-east-1
+AWS_PROFILE=default
+JWT_SECRET=mysecretstring
+URL=http://localhost:8080   #EB URL
+AWS_ACCESS_KEY_ID=AKIAXBF5MZMYP2CTKPGN
+AWS_SECRET_ACCESS_KEY=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
+
+
