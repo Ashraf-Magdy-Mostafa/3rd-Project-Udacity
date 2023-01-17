@@ -17,7 +17,7 @@ This application is provided to you as an alternative starter project if you do 
 - A S3 bucket for hosting uploaded pictures.
 
 # Links:
-```
+
 # GitHub Repo
 https://github.com/Ashraf-Magdy-Mostafa/3rd-Project-Udacity
 # DB.
@@ -27,7 +27,7 @@ http://udagram-bucket-926.s3-website-us-east-1.amazonaws.com
 # eb env
 udagram-env.eba-epvrmvnu.us-east-1.elasticbeanstalk.com
 
-```
+
 
 ## Built With
 
